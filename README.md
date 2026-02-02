@@ -14,7 +14,7 @@
 ---
 
 ## Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,python,react,nodejs,express,mysql,mongodb,git,github,vscode,visualstudio,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,python,react,nodejs,express,mysql,mongodb,prisma,postgres,git,github,vscode,visualstudio,postman&theme=light)](https://skillicons.dev)
 
 ---
 
